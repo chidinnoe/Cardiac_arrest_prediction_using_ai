@@ -1,0 +1,28 @@
+/* span.css-18uc3a4.e16nr0p34 {
+    color: #FFFFFF;
+    text-align: center;
+
+
+} */
+
+span.css-10trblm.e16nr0p30 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.fullScreenFrame>div {
+    display: flex;
+    justify-content: center;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
